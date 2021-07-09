@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "myMoney",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
